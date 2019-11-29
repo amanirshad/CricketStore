@@ -10,3 +10,4 @@ A cricket scorecard maintaining android application
     </style>
 
 </resources>
+
